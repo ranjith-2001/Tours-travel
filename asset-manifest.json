@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Tours-travel/static/css/main.6083827f.css",
+    "main.js": "/Tours-travel/static/js/main.30074f44.js",
+    "static/js/787.d4aba7ab.chunk.js": "/Tours-travel/static/js/787.d4aba7ab.chunk.js",
+    "static/media/eng2.jpg": "/Tours-travel/static/media/eng2.8230fa527b23c3489ccb.jpg",
+    "static/media/trip2.jpg": "/Tours-travel/static/media/trip2.859ef6180953397f2997.jpg",
+    "static/media/a2.jpg": "/Tours-travel/static/media/a2.53c0b5856c5485951ece.jpg",
+    "static/media/paris.jpg": "/Tours-travel/static/media/paris.7e455b560f17bef2887f.jpg",
+    "static/media/services.png": "/Tours-travel/static/media/services.a5fa625e2baa8ddd8d31.png",
+    "static/media/england.webp": "/Tours-travel/static/media/england.780ee493b3eb0d6c87ea.webp",
+    "static/media/m1.webp": "/Tours-travel/static/media/m1.23e1385719d1d1014e5a.webp",
+    "static/media/paris3.jpg": "/Tours-travel/static/media/paris3.49d488fed371ff13ea97.jpg",
+    "static/media/trip3.jpg": "/Tours-travel/static/media/trip3.c5c98703add20898be4b.jpg",
+    "static/media/c2.jpg": "/Tours-travel/static/media/c2.48795c988bb3ea170769.jpg",
+    "index.html": "/Tours-travel/index.html",
+    "main.6083827f.css.map": "/Tours-travel/static/css/main.6083827f.css.map",
+    "main.30074f44.js.map": "/Tours-travel/static/js/main.30074f44.js.map",
+    "787.d4aba7ab.chunk.js.map": "/Tours-travel/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6083827f.css",
+    "static/js/main.30074f44.js"
+  ]
+}
