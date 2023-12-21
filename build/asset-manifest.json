@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6083827f.css",
+    "main.js": "/static/js/main.d0c2601d.js",
+    "static/js/787.d4aba7ab.chunk.js": "/static/js/787.d4aba7ab.chunk.js",
+    "static/media/eng2.jpg": "/static/media/eng2.8230fa527b23c3489ccb.jpg",
+    "static/media/trip2.jpg": "/static/media/trip2.859ef6180953397f2997.jpg",
+    "static/media/a2.jpg": "/static/media/a2.53c0b5856c5485951ece.jpg",
+    "static/media/paris.jpg": "/static/media/paris.7e455b560f17bef2887f.jpg",
+    "static/media/services.png": "/static/media/services.a5fa625e2baa8ddd8d31.png",
+    "static/media/england.webp": "/static/media/england.780ee493b3eb0d6c87ea.webp",
+    "static/media/m1.webp": "/static/media/m1.23e1385719d1d1014e5a.webp",
+    "static/media/paris3.jpg": "/static/media/paris3.49d488fed371ff13ea97.jpg",
+    "static/media/trip3.jpg": "/static/media/trip3.c5c98703add20898be4b.jpg",
+    "static/media/c2.jpg": "/static/media/c2.48795c988bb3ea170769.jpg",
+    "index.html": "/index.html",
+    "main.6083827f.css.map": "/static/css/main.6083827f.css.map",
+    "main.d0c2601d.js.map": "/static/js/main.d0c2601d.js.map",
+    "787.d4aba7ab.chunk.js.map": "/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6083827f.css",
+    "static/js/main.d0c2601d.js"
+  ]
+}
